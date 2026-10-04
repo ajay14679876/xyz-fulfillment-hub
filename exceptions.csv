@@ -1,0 +1,9 @@
+exception_id,ref,type,description,priority,owner,next_action,status
+EX-001,SKU-YM-PRP,Stock mismatch,"System says 15 Yoga Mats in main, physical count is 12",High,Sunil (Warehouse),Recount Aisle 4 and correct system stock,Open
+EX-002,SKU-PC-BLK,Stock mismatch,"System says 50 Phone Cases in main, physical count is 44",Medium,Sunil (Warehouse),Recount shelf and check for damaged or mis-shelved units,In Progress
+EX-003,XYZ-10512,Transfer required,"Needs 5 Water Bottle Green, main has 2. Stock is in secondary warehouse",High,Anita (Office),"Transfer 3+ units from secondary to main, then resume order",Open
+EX-004,XYZ-10513,Missing stock,Backpack Black has 0 in main (25 in secondary),Medium,Anita (Office),Transfer 1+ units from secondary to main,Open
+EX-005,XYZ-10510,Wrong variant found,"Needed Desk Lamp Black, picker found Desk Lamp White",High,Ravi (Warehouse),"Return White lamp to shelf, re-pick Black from correct bin",In Progress
+EX-006,XYZ-10506,Packed box misplaced,Packed box not at Stage A where system says it is,Medium,Sunil (Warehouse),"Check Stage B/C and pack bench, update staging location",Open
+EX-007,XYZ-10518,Courier pickup delay,"Blue Dart pickup deadline 13:30 passed, box still at Stage A",High,Anita (Office),"Call Blue Dart for urgent pickup, or book alternate courier",Open
+EX-008,XYZ-10508,Priority deadline risk,"Priority order still packing, ship-by 15:15",High,Ravi (Warehouse),Finish packing now and stage for the 15:00-15:15 pickup,Open

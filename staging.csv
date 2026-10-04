@@ -1,0 +1,10 @@
+order_id,packing_status,location,courier,pickup_status,pickup_deadline
+XYZ-10501,Packed - Dispatched,Stage A,Delhivery,Collected,2026-10-03 11:30
+XYZ-10502,Packed - Dispatched,Stage B,Blue Dart,Collected,2026-10-03 12:15
+XYZ-10503,Packed - Dispatched,Stage A,Delhivery,Collected,2026-10-03 11:30
+XYZ-10504,Packed - Dispatched,Stage B,Blue Dart,Collected,2026-10-03 12:45
+XYZ-10520,Packed - Dispatched,Stage B,Delhivery,Collected,2026-10-03 12:15
+XYZ-10505,Packed - Staged,Stage C,Delhivery,Pending,2026-10-03 15:00
+XYZ-10506,Packed - Staged,Stage A,Delhivery,Pending,2026-10-03 17:30
+XYZ-10511,Packed - Staged,Stage B,Delhivery,Pending,2026-10-03 17:30
+XYZ-10518,Packed - Staged,Stage A,Blue Dart,Pending,2026-10-03 13:30

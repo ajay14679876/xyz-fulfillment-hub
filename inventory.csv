@@ -1,0 +1,11 @@
+sku,product,variant,main_stock,secondary_stock,physical_main
+SKU-DB-BLK,Desk Lamp,Black,12,5,12.0
+SKU-DB-WHT,Desk Lamp,White,8,0,
+SKU-WB-BLU,Water Bottle,Blue,40,20,40.0
+SKU-WB-GRN,Water Bottle,Green,2,30,2.0
+SKU-YM-PRP,Yoga Mat,Purple,15,0,12.0
+SKU-BS-BLK,Backpack,Black,0,25,0.0
+SKU-HP-WHT,Headphones,White,20,0,20.0
+SKU-PC-BLK,Phone Case,Black,50,0,44.0
+SKU-NB-RED,Notebook,Red,100,0,
+SKU-CM-GRY,Coffee Mug,Grey,25,0,25.0

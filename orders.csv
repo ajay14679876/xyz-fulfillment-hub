@@ -1,0 +1,21 @@
+order_id,customer,sku,qty,priority,deadline,stage,employee,location,block_reason
+XYZ-10501,Asha Rao,SKU-WB-BLU,2,No,2026-10-03 12:00,Shipped,Ravi,Dispatched,
+XYZ-10502,Vikram Singh,SKU-HP-WHT,1,Yes,2026-10-03 12:30,Shipped,Ravi,Dispatched,
+XYZ-10503,Meena Kapoor,SKU-NB-RED,4,No,2026-10-03 12:00,Shipped,Sunil,Dispatched,
+XYZ-10504,Karan Patel,SKU-CM-GRY,2,No,2026-10-03 13:00,Shipped,Sunil,Dispatched,
+XYZ-10505,Divya Nair,SKU-DB-BLK,1,Yes,2026-10-03 16:30,Staged,Ravi,Main WH - Stage C,
+XYZ-10506,Rahul Mehta,SKU-WB-BLU,3,No,2026-10-03 18:00,Staged,Sunil,Main WH - Stage A,
+XYZ-10507,Sana Zaidi,SKU-PC-BLK,2,No,2026-10-03 18:00,Packing,Sunil,Main WH - Pack Bench 1,
+XYZ-10508,Arjun Thomas,SKU-HP-WHT,1,Yes,2026-10-03 15:15,Packing,Ravi,Main WH - Pack Bench 2,
+XYZ-10509,Priya Lal,SKU-YM-PRP,1,No,2026-10-03 18:00,Picking,Sunil,Main WH - Aisle 4,
+XYZ-10510,Imran Ali,SKU-DB-BLK,1,Yes,2026-10-03 16:00,Blocked,Ravi,Main WH - Aisle 1,"Wrong variant found (White picked, Black needed)"
+XYZ-10511,Neha Gupta,SKU-CM-GRY,1,No,2026-10-03 18:00,Staged,Sunil,Main WH - Stage B,
+XYZ-10512,Rohit Bansal,SKU-WB-GRN,5,Yes,2026-10-03 17:00,Blocked,Anita,Main WH - Aisle 2,Main has 2 of 5 - transfer from secondary needed
+XYZ-10513,Lakshmi Iyer,SKU-BS-BLK,1,No,2026-10-03 18:00,Blocked,Anita,Main WH - Aisle 5,Zero in main - transfer from secondary needed
+XYZ-10514,Farhan Qureshi,SKU-NB-RED,6,No,2026-10-03 18:00,Processing,Anita,Office,
+XYZ-10515,Tara Desai,SKU-DB-BLK,1,Yes,2026-10-03 16:30,Picking,Ravi,Main WH - Aisle 1,
+XYZ-10516,Gopal Hegde,SKU-DB-WHT,2,No,2026-10-03 18:00,Received,Unassigned,Office,
+XYZ-10517,Sneha Reddy,SKU-YM-PRP,2,Yes,2026-10-03 16:45,Processing,Anita,Office,
+XYZ-10518,Dev Joshi,SKU-WB-BLU,1,No,2026-10-03 14:30,Staged,Sunil,Main WH - Stage A,
+XYZ-10519,Isha Chawla,SKU-HP-WHT,2,No,2026-10-03 18:00,Received,Unassigned,Office,
+XYZ-10520,Manoj Fernandes,SKU-CM-GRY,1,No,2026-10-03 12:30,Shipped,Ravi,Dispatched,
